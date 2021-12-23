@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185687556139",
+    "project_id": "bloc1622",
+    "storage_bucket": "bloc1622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185687556139:android:eb59589526284dc9272a6e",
+        "android_client_info": {
+          "package_name": "com.example.blocnotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185687556139-qlu7g9nugmhbvr7iahk10cfp4hb62opb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3T_c5ZD0rxlNybEjYuu0eyz5nVSspao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185687556139-qlu7g9nugmhbvr7iahk10cfp4hb62opb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
